@@ -1,6 +1,6 @@
 # McCormick Envelope-Guided Adaptive Sampling for Surrogate Modelling
 
-> **GitHub Repository:** [https://github.com/your-username/your-repo-name](https://github.com/your-username/your-repo-name)
+> **GitHub Repository:** [[https://github.com/your-username/your-repo-name](https://github.com/qzramiz/AdaptiveSamplingForSurrogateTraining-McCormickEnvelopes)]
 > *(Replace with your actual repository URL)*
 
 ---
