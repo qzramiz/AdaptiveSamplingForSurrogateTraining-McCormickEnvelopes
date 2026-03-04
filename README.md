@@ -1,0 +1,2 @@
+# AdaptiveSamplingForSurrogateTraining-McCormickEnvelopes
+This repository contains implementation details for McCormick based Adaptive Sampling technique
