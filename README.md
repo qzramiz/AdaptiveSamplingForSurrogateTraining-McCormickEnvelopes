@@ -242,21 +242,6 @@ plots/
 
 ---
 
-## Citation
-
-If you use this code in your research, please cite:
-
-```bibtex
-@misc{yourname2024mccormick,
-  author = {Your Name},
-  title  = {McCormick Envelope-Guided Adaptive Sampling for Surrogate Modelling},
-  year   = {2024},
-  url    = {https://github.com/your-username/your-repo-name}
-}
-```
-
----
-
 ## License
 
 MIT License — see `LICENSE` for details.
